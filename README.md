@@ -11,7 +11,7 @@
 
 
 ## Some text
-I have a ***cat***.  
+I have a ***cat***.🐱  
 She is orange `#FFA500`. She likes:
 * milk
 * fish
@@ -25,3 +25,8 @@ She is orange `#FFA500`. She likes:
 
 > [!IMPORTANT]
 > Dont touch her!
+
+Just
+- [x] Feed it
+- [ ] Play it
+- [ ] Feed again
